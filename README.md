@@ -1,4 +1,8 @@
-### Hi there 👋
+# Halo!
+
+## Perkenalkan, nama saya adalah Akna Mafaid Ilmi, hobbyist waktu luang, jadi saya gak banyak produktif disini, tapi senang bertemu dengamu.
+
+### Salam kenal semuanya!
 
 <!--
 **Akna45/Akna45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
