@@ -4,7 +4,7 @@
 
 ### Salam kenal semuanya!
 
-![GIF](https://c.tenor.com/FvthnLepGgAAAAAC/hi-hello.gif)
+![GIF](https://64.media.tumblr.com/dcebdaebfe31f8c48d7e7c414d44c1d8/8b06acec8602d380-59/s540x810/f2710cf21c547049c5deb4aef9920040cdd740f5.gifvf)
 
 <!--
 **Akna45/Akna45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
