@@ -1,8 +1,10 @@
-# Halo!
+# **Halo!**
 
-## Perkenalkan, nama saya adalah Akna Mafaid Ilmi, hobbyist waktu luang, jadi saya gak banyak produktif disini, tapi senang bertemu dengamu.
+## Perkenalkan, nama saya adalah **Akna Mafaid Ilmi**, _hobbyist_ waktu luang, jadi saya gak banyak produktif disini, tapi senang bertemu denganmu.
 
 ### Salam kenal semuanya!
+
+![GIF](https://c.tenor.com/FvthnLepGgAAAAAC/hi-hello.gif)
 
 <!--
 **Akna45/Akna45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
